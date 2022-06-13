@@ -1,5 +1,5 @@
 # Projeto - Site Hora do Dia
-Site feito com HTML5, CSS3 e JavaScript que mostra as horas de maneira dinâmica
+Site que mostra as horas do dia e que muda as fotos e estilos de maneira dinâmica
 # Tecnologias utilizadas
 * HTML5
 * CSS3
